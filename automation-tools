@@ -1,0 +1,8 @@
+python-automation-tools/
+│
+├── main.py
+├── file_organizer.py
+├── email_sender.py
+├── excel_merger.py
+├── requirements.txt
+└── README.md
