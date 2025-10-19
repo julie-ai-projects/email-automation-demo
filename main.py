@@ -1,13 +1,13 @@
 from file_organizer import organize_files
-from email_sender import send_report
 from excel_merger import merge_excels
-
-def main():
-    print("Running automation scripts...")
-    organize_files()
-    merge_excels()
-    send_report()
-    print("✅ All tasks completed!")
+from email_sender import send_email
 
 if __name__ == "__main__":
-    main()
+    print("⚙️ Starting automation tasks...\n")
+
+    organize_files()
+    merge_excels()
+    send_email()
+
+    print("\n🎉 All tasks completed successfully!")
+
