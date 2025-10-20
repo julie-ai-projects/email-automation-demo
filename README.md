@@ -1,3 +1,5 @@
+![Python Automation Scripts](https://raw.githubusercontent.com/julie-ai-projects/python-automation-scripts/main/banner.png)
+
 # Email Automation Script (Demo)
 
 A Python automation project that simulates sending personalized emails to multiple recipients using data from a CSV file and a text template.
